@@ -61,7 +61,7 @@ The dataset represents sales transactions for a men’s clothing store, includin
 • Sample or anonymized data is used for demonstration purposes.
 
 
-7.Dashboard Design:
+7. Dashboard Design:
 The dashboard is designed to provide a clear and intuitive overview of men’s store sales performance using visually simple and business-focused charts. 
 The dashboard includes the following components:
 • KPI Scorecards
